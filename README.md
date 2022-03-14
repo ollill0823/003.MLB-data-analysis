@@ -1,3 +1,7 @@
+[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ollill0823/MLB-data-analysis/HEAD)
+
 # Project description:
 After new statistical methods have launched in the baseball areas, experts start to focus on how they can improve the quality of their players' performance. **Rotating spin**, one of the most incoming new data has come to people, giving audiences a lot of questions about why it is pivotal to pitchers. I am interested in what is the correlation with. So, my research question will be defined as ___How does rotate spin affect pitcher’s pitching quality?___ 
 
